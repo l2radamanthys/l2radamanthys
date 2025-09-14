@@ -5,7 +5,7 @@
 Soy un desarrollador Fullstack con **10+ años de experiencia** en el diseño e implementación de soluciones tecnológicas innovadoras.
 Me apasiona crear plataformas que optimicen procesos, integren datos y faciliten la toma de decisiones.
 
-Actualmente ayudo a empresas (mineras y de otros sectores) a **automatizar procesos, integrar datos y crear Tableros de Control Ambientales e Higiene y Seguridad** para una mejor toma de decisiones.
+Actualmente trabajo como desarrollador freelancer, ayudo a empresas (mineras y de otros sectores) a **automatizar procesos, integrar datos y crear Tableros de Control Ambientales y Tableros de Higiene y Seguridad** para ayudar a centralizar datos, dar seguimiento a diferentes procesos y realizar una mejor toma de decisiones.
 
 ---
 
@@ -46,9 +46,10 @@ Repositorio: [l2radamanthys/py-conference]https://github.com/l2radamanthys/py-co
 
 - 🌐 [Mi Curriculum](https://l2radamanthys.github.io)
 - 🌐 [Data Dev and Code](https://datadev-and-code.ar)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ricardoquirogadev/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardoquirogadev/)
 - 📧 ricardoquiroga.dev@gmail.com
-- 🐙 [GitHub](https://github.com/l2radamanthys)  
+- 🐙 [GitHub](https://github.com/l2radamanthys)
+- 🌐 [StackOverflow](https://es.stackoverflow.com/users/34430/ricardo-d-quiroga?tab=profile)
 
 ---
-✨ Siempre abierto a colaborar en proyectos innovadores, consultorías y desarrollo de soluciones a medida, Escribime por ofertas de trabajo o consultoria.
+✨ Siempre abierto a colaborar en nuevos proyectos, consultorías y desarrollo de soluciones a medida, Escribime por ofertas de trabajo.
